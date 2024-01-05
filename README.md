@@ -1,4 +1,4 @@
-Hi 👋 My name is Eray Sona
+![image](https://github.com/erayline/erayline/assets/144234072/e58cd0fa-3dff-4464-8686-e0a4639dd712)Hi 👋 My name is Eray Sona
 ==========================
 
 I am a student of Software Engineering
@@ -21,18 +21,18 @@ I love coding, because it does make my brain hot.
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
                     </picture>
                     </a>
-                      <a href="https://www.linkedin.com/in/eray-sona-851b59289/" target="_blank" rel="noreferrer">
+                    <a href="https://www.linkedin.com/in/eray-sona-851b59289/" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
                     </picture>
                     </a>
-                      <a href="https://www.youtube.com/@eraysona" target="_blank" rel="noreferrer">
+                    <a href="https://www.youtube.com/@eraysona" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="undefined" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
+                    <source media="(prefers-color-scheme: light)" srcset="![image](https://github.com/erayline/erayline/assets/144234072/940e61ec-fa08-4825-848e-579f98821c5a)
+" width="32" height="32" />
                     </picture>
                     </a>
 </p>
