@@ -29,10 +29,7 @@ I love coding, because it does make my brain hot.
                     </picture>
                     </a>
                     <a href="https://www.youtube.com/@eraysona" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="undefined" />
-                    <source media="(prefers-color-scheme: light)" srcset="![image](https://github.com/erayline/erayline/assets/144234072/940e61ec-fa08-4825-848e-579f98821c5a)
-" width="32" height="32" />
+                    <p>Youtube</p>
                     </picture>
                     </a>
 </p>
