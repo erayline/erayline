@@ -1,4 +1,4 @@
-![image](https://github.com/erayline/erayline/assets/144234072/e58cd0fa-3dff-4464-8686-e0a4639dd712)Hi 👋 My name is Eray Sona
+Hi 👋 My name is Eray Sona
 ==========================
 
 I am a student of Software Engineering
