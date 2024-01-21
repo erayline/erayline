@@ -15,8 +15,4 @@ I love coding, because it does make my brain hot.
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
                     </picture>
-                    </a>
-                    youtube
-                    <a href="https://www.youtube.com/@eraysona" target="_blank" rel="noreferrer">
-                    <p>Youtube</p>
 </p>
