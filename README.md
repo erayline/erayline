@@ -1,7 +1,7 @@
 Hi 👋 My name is Eray Sona
 ==========================
 
-I am a student of Software Engineering
+I am a student of Computer Science Engineer Student
 --------------------------------------
 
 I love coding, because it does make my brain hot.
