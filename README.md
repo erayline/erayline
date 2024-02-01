@@ -1,2 +1,2 @@
-I love coding, because it does make my brain hot.
+I love coding.
 ✉️  You can contact me at [eraysonaonline@gmail.com](mailto:eraysonaonline@gmail.com)
